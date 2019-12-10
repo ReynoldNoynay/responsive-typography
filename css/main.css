@@ -38,10 +38,13 @@ article header {
 
 article header p {
   font-style: italic;
+  margin: 0 0 1rem;
 }
 
 article > p:last-child {
   border-bottom: 1px solid #999;
+  padding-bottom: 1.3rem;
+  margin-bottom: .3rem;
 }
 
 blockquote {
